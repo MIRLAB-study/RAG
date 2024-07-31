@@ -23,7 +23,6 @@ click==8.1.7
 clip==0.2.0
 colt5-attention==0.10.19
 comm==0.2.1
-contourpy==1.2.0
 cycler==0.12.1
 dataclasses-json==0.6.4
 datasets==2.17.0
