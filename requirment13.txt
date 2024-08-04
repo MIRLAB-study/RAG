@@ -145,7 +145,7 @@ portalocker==2.8.2
 product-key-memory==0.2.10
 prometheus-client==0.20.0
 prompt-toolkit==3.0.43
-protobuf==4.22.0
+protobuf==3.20.0
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
